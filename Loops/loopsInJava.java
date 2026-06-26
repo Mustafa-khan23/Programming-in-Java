@@ -1,4 +1,4 @@
-public class loopsInJava {
+public class LoopsInJava {
     public static void main(String args[]) {
         //for loop :
         System.out.println("This is by for loop");

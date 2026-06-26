@@ -1,4 +1,3 @@
-package CoreJava;
 public class DataTypes {
     public static void main(String[] args) {
         int age = 19; //integer Type variable and for big values long is used
