@@ -1,4 +1,4 @@
-package CoreJava;
+package Input;
 import java.util.*;
 
 public class InputJava {

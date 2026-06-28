@@ -1,4 +1,4 @@
-package CoreJava;
+package Operations;
 import java.util.*;
 
 public class SumOfTwo {
